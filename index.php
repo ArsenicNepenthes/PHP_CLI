@@ -1,8 +1,10 @@
 <?php
+//ceci est un commentaire
 echo "hello world";
 echo "Bonjour le monde"
-//ceci est un commentaire
 /*
-commentaire sur plusieurs lignes
+commentaire 
+sur plusieurs 
+lignes
 */
 
